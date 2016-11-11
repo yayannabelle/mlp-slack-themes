@@ -38,24 +38,9 @@ Just copy and paste the line of colour codes into the box at the bottom of the '
 ##Ponyville
 *Under construction!*
 
-###Sweetie Belle
-![Princess Celestia theme]()
-
-###Apple Bloom
-![Princess Celestia theme]()
-
-###Scootaloo
-![Princess Celestia theme]()
 
 ##Canterlot
 *Under construction!*
-
-###Princess Celestia
-![Princess Celestia theme]()
-
-###Princess Luna
-![Princess Luna theme]()
-
 
 ##Crystal Empire
 *Under construction!*
