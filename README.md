@@ -14,7 +14,7 @@ My Little Pony inspired Slack themes! Making your Slack sidebar look 20% cooler.
 ###Pinkie Pie
 ![Pinkie Pie theme](img/pinkie pie screenshot.png)
 
-    #F3B6CF,#ED458B,#ED458B,#000000,#ED458B,#000000,#80D1F6,#fdf6af
+    #F3B6CF,#ED458B,#ED458B,#000000,#ED458B,#000000,#FDF6AF,#80D1F6
 ###Fluttershy
 ![Fluttershy theme](img/fluttershy screenshot.png)
 
