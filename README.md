@@ -30,7 +30,7 @@ My Little Pony inspired Slack themes! Making your Slack sidebar look 20% cooler.
 ###Rainbow Dash
 ![Rainbow Dash theme](img/rainbow dash screenshot.png)
 
-
+    #9EDBF9,#672F89,#62BC4D,#000000,#FDF6AF,#460025,#EE4144,#1E98D3
 
 ##Ponyville
 *Under construction!*
