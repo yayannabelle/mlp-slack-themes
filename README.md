@@ -1,8 +1,11 @@
 #My Little Pony inspired Slack themes
 Making your [Slack](https://slack.com/) sidebar look 20% cooler.
 
-#Credits
-* Hex code credit belongs to [kefkafloyd on dA](http://kefkafloyd.deviantart.com/gallery/28942848/My-Little-Pony-Friendship-is-Magic-Color-Guides). I've just arranged them for Slack and made screenshots.
+##Instructions
+Just copy and paste the line of colour codes into the box at the bottom of the 'sidebar theme' preference tab.
+
+##Credits
+* Hex code credit belongs to [kefkafloyd on dA](http://kefkafloyd.deviantart.com/gallery/28942848/My-Little-Pony-Friendship-is-Magic-Color-Guides) and . I've just arranged them for Slack and made screenshots.
 * Text/background colour combinations have been checked for high enough contrast ratio (all are Level AA and above) using this [super helpful tool](http://leaverou.github.io/contrast-ratio/) by @LeaVerou .
 * Themes tested using [Slack Themes](https://github.com/paracycle/slackthemes) by @paracycle .
 
