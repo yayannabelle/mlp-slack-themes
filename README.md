@@ -1,5 +1,5 @@
 #My Little Pony inspired Slack themes
-Making your Slack sidebar look 20% cooler.
+Making your [Slack](https://slack.com/) sidebar look 20% cooler.
 
 #Credits
 * Hex code credit belongs to [kefkafloyd on dA](http://kefkafloyd.deviantart.com/gallery/28942848/My-Little-Pony-Friendship-is-Magic-Color-Guides). I've just arranged them for Slack and made screenshots.
@@ -34,6 +34,15 @@ Making your Slack sidebar look 20% cooler.
 
 ##Ponyville
 *Under construction!*
+
+###Sweetie Belle
+![Princess Celestia theme]()
+
+###Apple Bloom
+![Princess Celestia theme]()
+
+###Scootaloo
+![Princess Celestia theme]()
 
 ##Canterlot
 *Under construction!*
