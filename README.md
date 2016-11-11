@@ -1,7 +1,10 @@
 # mlp-slack-themes
 My Little Pony inspired Slack themes! Making your Slack sidebar look 20% cooler.
 
-Hex code credit belongs to [kefkafloyd on dA](http://kefkafloyd.deviantart.com/gallery/28942848/My-Little-Pony-Friendship-is-Magic-Color-Guides). I've just arranged them for Slack and made screenshots. Text/background colour combinations have been checked for high enough contrast ratio (all are Level AA and above) using @LeaVerou's [super helpful tool](http://leaverou.github.io/contrast-ratio/).
+#Credits
+* Hex code credit belongs to [kefkafloyd on dA](http://kefkafloyd.deviantart.com/gallery/28942848/My-Little-Pony-Friendship-is-Magic-Color-Guides). I've just arranged them for Slack and made screenshots.
+* Text/background colour combinations have been checked for high enough contrast ratio (all are Level AA and above) using this [super helpful tool](http://leaverou.github.io/contrast-ratio/) by @LeaVerou .
+* Themes tested using [Slack Themes](https://github.com/paracycle/slackthemes) by @paracycle .
 
 ##Mane Six
 ###Rarity
@@ -23,12 +26,18 @@ Hex code credit belongs to [kefkafloyd on dA](http://kefkafloyd.deviantart.com/g
 ###Twilight Sparkle
 ![Twilight Sparkle theme](img/twilight sparkle screenshot.png)
 
+    #B689C8,#662D8A,#662D8A,#ffffff,#662D8A,#000000,#ED438A,#ED438A
 ###Rainbow Dash
 ![Rainbow Dash theme](img/rainbow dash screenshot.png)
 
 
+
 ##Ponyville
 *Under construction!*
+
+##Canterlot
+*Under construction!*
+
 ###Princess Celestia
 ![Princess Celestia theme]()
 
@@ -36,7 +45,5 @@ Hex code credit belongs to [kefkafloyd on dA](http://kefkafloyd.deviantart.com/g
 ![Princess Luna theme]()
 
 
-##Canterlot
-*Under construction!*
 ##Crystal Empire
 *Under construction!*
